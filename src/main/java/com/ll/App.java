@@ -1,6 +1,7 @@
 package com.ll;
 
-import java.sql.Array;
+import com.ll.wiseSaying.entity.WiseSaying;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
